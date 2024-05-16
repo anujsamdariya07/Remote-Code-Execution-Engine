@@ -1,0 +1,15 @@
+.editor-container {
+    display: flex;
+    /* Adjust the height as needed */
+  }
+  
+  .left-area {
+    width: 15%;
+    background-color: pink;
+  }
+  
+  .right-area {
+    flex: 1;
+    background-color: red;
+  }
+  
