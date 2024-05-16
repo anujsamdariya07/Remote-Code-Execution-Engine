@@ -1,9 +1,7 @@
-# React + Vite
+# CodeWise Studio✨: Remote Code Execution Engine
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a remote code execution engine by the name of CodeWise✨.
+This is a full stack app running on MERN Stack, i.e., MongoDB, ExpressJS, ReactJS, NodeJS.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Remote-Code-Execution-Engine
+This is the end-user documentation of CodeWise Studio✨. 
+Please refer to the following link for [Technical Documentation](./Technical%20Documentation.md).
